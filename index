@@ -1,0 +1,194 @@
+
+<!doctype html>
+<html>
+<head>
+	<!--
+    	Author: Danielle Record
+		Date: 4-8-15 
+		Web Design Project #3 
+
+		Filename: index_2.html
+		Supporting files: kinkade.css
+		-->
+ 	  <meta charset="UTF-8">
+	  <meta name="Author" content="Danielle Record">
+	  <meta name="Keywords" content="">
+	  <meta name="Description" content="">
+      
+<title>Thomas Kinkade_Home</title>
+
+<link href="css/kinkade.css" rel="stylesheet" type="text/css">
+<link href="css/simple-slideshow-styles.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+<nav>
+        	<ul>
+              <li><a href="index_2.html">Home</a></li>
+              <li><a href="about.html">About</a></li>
+              <li><a href="gallery.html">Galleries</a>
+              <!--Dropdown menu is here!<img src="images/header.jpg" alt="Thomas Kinkade Logo" class="logo" title="Homepage">-->
+            <ul>
+              <li><a href="all_art.html">Masterpiece Art</a></li>
+              <li><a href="disney_art.html">Walt Disney Art</a></li>
+              <li><a href="lighthouse_art.html">Lighthouse Art</a></li>
+            </ul>
+            <!--End of Dropdown menu-->
+            </li>
+            	<li><a href="blog.html">Blog</a></li>
+                <li><a href="links.html">Links</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+		</nav>
+<div class="container">
+		
+		
+    	<header>
+		</header>
+        
+        
+   	<marquee  direction="left" behavior="scroll"><em><span><strong>Thomas Kinkade's Inspirational Quotes!! </strong></span></em><span><strong>&nbsp;&nbsp; </strong>*"What I paint touches on foundational life values. Home, family, peacefulness...and one of the messages I try to constantly get across is slow it down and enjoy every moment." ~ Thomas Kinkade &nbsp;&nbsp; *"Balance, peace, and joy are the fruit of a successful life. It starts with recognizing your talents and finding ways to serve others by using them." ~ Thomas Kinkade &nbsp;&nbsp; *“A home with warmly lit windows is a resting place for the heart. It’s a dream worth holding on to, a peaceful vision of our friends, our families, ourselves.”
+~ Thomas Kinkade &nbsp;&nbsp; *The worlds I paint leave a lot to engage the imagination by hinting at what lies beyond the four edges of the painting. I think getting beyond the four edges of an opportunity or challenge is one of the basic skills you need in business.
+~ Thomas Kinkade &nbsp;&nbsp; *“Surround yourself with the kinds of input that are uplifting, that expand your mind and settle your spirit.”
+~ Thomas Kinkade &nbsp;&nbsp; *“Beauty is found in anything that delights the senses, nourishes the soul, fires the imagination.”
+~ Thomas Kinkade </span>
+  </marquee>
+  <div class="bss-slides slideshow" tabindex="1" autofocus="autofocus">
+        <figure>
+            <img src="images/kinkade25.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+		<figure>
+            <img src="images/kinkade1.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+        <figure>
+            <img src="images/kinkade29.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+        <figure>
+            <img src="images/kinkade3.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+        <figure>
+            <img src="images/kinkade18.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+        <figure>
+            <img src="images/kinkade24.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+        <figure>
+            <img src="images/kinkade9.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+		<figure>
+            <img src="images/kinkade31.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+        <figure>
+            <img src="images/kinkade32.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+        <figure>
+            <img src="images/kinkade26.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+        <figure>
+            <img src="images/kinkade27.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+        
+        
+       <figure>
+            <img src="images/kinkade_disney8.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+        <figure>
+            <img src="images/kinkade_disney1.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+        <figure>
+            <img src="images/kinkade_disney7.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+		<figure>
+            <img src="images/kinkade_disney3.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+        <figure>
+            <img src="images/kinkade_disney4.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+        
+        <figure>
+            <img src="images/kinkade_disney15.jpg" width="100%" />
+            <figcaption></figcaption> 
+        </figure>
+  </div><!-- End of Slideshow--> 
+  
+  <div class="page_title">
+  	<h2>In Loving Memory of Thomas Kinkade</h2>
+  </div>
+  
+  <div class="tk_image">
+  	<img src="images/thomas_kinkade_pic2.jpg" alt="Image of Thomas Kinkade"> 
+  </div>
+  
+ <div class="logo"><img src="images/logo-kinkade.png"></div>
+  
+ 
+ <div class="clear"></div>                  
+
+ </div><!--End of Container-->  
+    <footer>
+   
+   	<div class="authorinfo">
+      
+      <strong>&copy; Copyright 2015 ~ Created by: <a href="http://">Danielle Record</a> ~ GRC 275_Advanced Web Design</strong>
+				
+	</div><!-- End of Author Info -->
+      
+   </footer> 
+
+
+<script src="scripts/better-simple-slideshow.js"></script>
+<script>
+	makeBSS('.slideshow');
+</script>
+<script>
+var opts = {
+            //auto-advancing slides? accepts boolean (true/false) or object
+            auto : { 
+                // speed to advance slides at. accepts number of milliseconds
+                speed : 5000, 
+                // pause advancing on mouseover? accepts boolean
+                pauseOnHover : true 
+            },
+            // show fullscreen toggle? accepts boolean
+            fullScreen : true, 
+            // support swiping on touch devices? accepts boolean, requires hammer.js
+            swipe : true 
+        };
+
+	makeBSS('.slideshow', opts);
+</script>
+	       
+</body>
+</html>
